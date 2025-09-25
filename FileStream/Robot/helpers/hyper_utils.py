@@ -1,5 +1,5 @@
 from pyrogram import Client
-from HyperDL import HyperTGDownloader
+from .HyperDL import HyperTGDownloader
 from config import API_ID, API_HASH, BOT_TOKEN, CHUNK_SIZE, HYPERDL_DIR, HYPER_THREADS, HELPER_BOTS
 
 
