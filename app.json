@@ -1,1 +1,6 @@
-
+{
+  "name": "File Streamer",
+  "description": "Telegram File Streamer Bot",
+  "stack": "container",
+  "repository": "https://github.com/nonuser99/FileStream"
+}
