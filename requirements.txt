@@ -1,1 +1,8 @@
-
+aiofiles
+aiohttp
+aioshutil
+motor
+pyrofork
+pytz
+tgcrypto-pyrofork
+uvloop
